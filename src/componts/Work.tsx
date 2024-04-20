@@ -4,6 +4,7 @@ import food from "../assets/food-project.jpg";
 const data = [
   { image: blacklue, name: "Blacklue", demoLink: "/", codeLink: "/" },
   { image: food, name: "Coming soon...", demoLink: "/", codeLink: "/" },
+  { image: food, name: "Coming soon...", demoLink: "/", codeLink: "/" },
 ];
 
 const Work = () => {
