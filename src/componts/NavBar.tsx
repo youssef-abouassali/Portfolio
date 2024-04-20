@@ -88,7 +88,7 @@ const NavBar = () => {
               className="flex justify-between items-center w-full text-gray-300"
               href="https://www.linkedin.com/in/youssef-abou-asali-a437b8184/"
             >
-              Linkedin <FaLinkedin size={30} />
+              LinkedIn <FaLinkedin size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
@@ -96,7 +96,7 @@ const NavBar = () => {
               className="flex justify-between items-center w-full text-gray-300"
               href="https://github.com/youssef-abouassali"
             >
-              Github <FaGithub size={30} />
+              GitHub <FaGithub size={30} />
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#b91c1c]">

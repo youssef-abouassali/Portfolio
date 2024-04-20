@@ -14,10 +14,10 @@ const Contact = () => {
             Contact
           </p>
           <p className="text-gray-300 py-4">
-            // Dubmit the form below or shoot me an email -
-            <p className="text-gray-300 px-4 font-bold">
+            Submit the form below or shoot me an email on
+            <span className="text-gray-300 px-2 font-bold">
               youssefassali61@gmail.com
-            </p>
+            </span>
           </p>
         </div>
         <input

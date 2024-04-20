@@ -12,15 +12,34 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold text-black">
-            <p>Hi. I'm Youssef, nice to meet you.please take a look around.</p>
+            <p>Nice to meet you! Take a look around😊</p>
           </div>
-          <div className="text-black">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et maiores
-            impedit hic iste porro quia minima. Minus officia a nam dolorem
-            quasi cumque qui optio nemo, autem dolorum id iste, ipsa, eos
-            dignissimos vel officiis rem neque accusamus porro facilis voluptas
-            sint tenetur! Nam tenetur asperiores reiciendis aliquid saepe
-            veritatis.
+          <div className="text-black italic">
+            <p>
+              Hey there! I'm a recent graduate from SVU, class of 2024, based in
+              the lively city of Hamilton, Ontario.
+              <p>
+                I'm a software enthusiast who loves creating attractive websites
+                that look great and work well.
+              </p>
+            </p>
+            <p>
+              When I'm not busy coding, you'll often find me enjoying my
+              hobbies. I like to stay updated on the newest technologies and
+              read whenever I can.
+            </p>
+            <p>
+              Away from the computer, I try out new recipes, and explore
+              different restaurants in the area.
+            </p>
+            <p>
+              I have big dreams for the future. I believe in setting high goals
+              and working hard to achieve them.
+            </p>
+            <p>
+              Come along with me as I pursue excellence and chase after my
+              dreams, one line of code at a time.
+            </p>
           </div>
         </div>
       </div>

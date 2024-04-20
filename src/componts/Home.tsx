@@ -10,12 +10,20 @@ const Home = () => {
           Youssef Abou Assali
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Front End Developer
+          I'm a front-end developer
         </h2>
-        <p className="text-[#8892b0] py-4 max-w-[700px]">
-          I'm a fornt-end developer specializing in building (and occasionally
-          designing) exceptional digital experiences. Currently , I'm focused on
-          building respinsive front_end web applications
+        <p className="text-[#8892b0] font-bold  py-4 max-w-[700px]">
+          <p>
+            Welcome to my portfolio! I'm a passionate software developer with a
+            focus on front-end technologies.
+          </p>
+          <p>
+            My commitment to designing intuitive and user-friendly interfaces
+            motivates me to consistently refine my skills, ensuring the delivery
+            of refined projects.
+          </p>
+          As I embark on my journey in the world of software development, I am
+          eager to collaborate, learn, and contribute to innovative projects.
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover: bg-lime-500 hover:border-blue-300">
