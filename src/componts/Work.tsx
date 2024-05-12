@@ -2,7 +2,12 @@ import blacklue from "../assets/blacklue.png";
 import food from "../assets/food-project.jpg";
 
 const data = [
-  { image: blacklue, name: "Blacklue", demoLink: "/", codeLink: "/" },
+  {
+    image: blacklue,
+    name: "Blacklue",
+    demoLink: "https://netflix-mock-phi.vercel.app/",
+    codeLink: "https://github.com/youssef-abouassali/netflix-mock",
+  },
   { image: food, name: "Coming soon...", demoLink: "/", codeLink: "/" },
 ];
 
