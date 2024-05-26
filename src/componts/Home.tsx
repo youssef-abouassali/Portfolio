@@ -26,7 +26,7 @@ const Home = () => {
           eager to collaborate, learn, and contribute to innovative projects.
         </p>
         <div>
-          <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover: bg-lime-500 hover:border-blue-300">
+          <button className="text-white group border-2 px-3 py-3 my-2 flex items-center hover: bg-lime-500 hover:border-blue-300">
             <Link to="work" smooth={true} duration={500}>
               Viwe Work
             </Link>

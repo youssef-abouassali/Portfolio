@@ -5,7 +5,7 @@ const data = [
   {
     image: blacklue,
     name: "Blacklue",
-    demoLink: "https://netflix-mock-phi.vercel.app/",
+    demoLink: "https://blacklue-youssef-abou-asalis-projects.vercel.app/",
     codeLink: "https://github.com/youssef-abouassali/netflix-mock",
   },
   { image: food, name: "Coming soon...", demoLink: "/", codeLink: "/" },
