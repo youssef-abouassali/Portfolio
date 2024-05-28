@@ -5,7 +5,7 @@ const data = [
   {
     image: blacklue,
     name: "Blacklue",
-
+    demoLink: "https://blacklue.vercel.app/",
     codeLink: "https://github.com/youssef-abouassali/netflix-mock",
   },
   { image: food, name: "Coming soon...", demoLink: "/", codeLink: "/" },
@@ -38,7 +38,7 @@ const Work = () => {
                   {item.name}
                 </span>
                 <div className="pt-8 text-center">
-                  <a href="https://blacklue-youssef-abou-asalis-projects.vercel.app">
+                  <a href={item.demoLink}>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Demo
                     </button>
