@@ -8,7 +8,7 @@ const data = [
     demoLink: "https://blacklue.vercel.app/",
     codeLink: "https://github.com/youssef-abouassali/netflix-mock",
   },
-  { image: yoga, name: "Yoga", demoLink: "https://gym-three-bay.vercel.app/" },
+  { image: yoga, name: "Yoga" },
 ];
 
 const Work = () => {
