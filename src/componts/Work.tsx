@@ -1,5 +1,5 @@
 import blacklue from "../assets/blacklue.png";
-import food from "../assets/food-project.jpg";
+import yoga from "../assets/yoga.png";
 
 const data = [
   {
@@ -8,7 +8,7 @@ const data = [
     demoLink: "https://blacklue.vercel.app/",
     codeLink: "https://github.com/youssef-abouassali/netflix-mock",
   },
-  { image: food, name: "Coming soon...", demoLink: "/", codeLink: "/" },
+  { image: yoga, name: "Yoga", demoLink: "https://gym-three-bay.vercel.app/" },
 ];
 
 const Work = () => {

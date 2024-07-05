@@ -28,7 +28,7 @@ const Home = () => {
         <div>
           <button className="text-white group border-2 px-3 py-3 my-2 flex items-center hover: bg-lime-500 hover:border-blue-300">
             <Link to="work" smooth={true} duration={500}>
-              Viwe Work
+              Viwe Work  
             </Link>
             <span className="group-hover:rotate-90 duration-500">
               <HiArrowNarrowRight className="ml-3 " />
