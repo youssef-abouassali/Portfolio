@@ -8,7 +8,7 @@ const data = [
     demoLink: "https://blacklue.vercel.app/",
     codeLink: "https://github.com/youssef-abouassali/netflix-mock",
   },
-  { image: yoga, name: "Yoga" },
+  { image: yoga, name: "Yoga" ,demoLink: "https://gym-three-bay.vercel.app/",  },
 ];
 
 const Work = () => {
@@ -43,11 +43,13 @@ const Work = () => {
                       Demo
                     </button>
                   </a>
-                  <a href={item.codeLink}>
+                  
+                  
+              {item.codeLink && <a href={item.codeLink}>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                       Code
                     </button>
-                  </a>
+                  </a>}
                 </div>
               </div>
             </div>
